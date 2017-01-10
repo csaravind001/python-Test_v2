@@ -18,4 +18,4 @@ For email notification we need to configure the email credentials on helper.py f
 
 Run: python Perfomance_test.py
 
-Performance test: Run - python Perfomance_test.py  file generated following statistics for the response time of each API: 1. 10th percentile 2. Mean 3. Standard Deviation
+Performance test: Run - python Perfomance_test.py  file generated following statistics for the response time of each API: 1. 10th percentile 2. Mean 3. Standard Deviation....
